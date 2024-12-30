@@ -7,8 +7,8 @@ Hi there! 👋 I'm Manu K Shibu 🌟
 ⚡ Fun fact: **a learner**
 
 ### 🌐 Connect with Me:
-- **GitHub**: [(https://github.com/manu434)]
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/manukshibu/))
+- **GitHub**: [Your Github profile(https://github.com/manu434)]
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manukshibu/)]
 
 ## I have a Professional experience as a Senior_QA_engineer with over 3 years
 ## Key Skills have been Achieved
