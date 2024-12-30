@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 I'm Manu K Shibu 🌟
 
-🔭 I’m currently Focusing on ****Learning Automation Engineering****
+🔭 I’m currently Focusing on ****[Learning Automation Engineering]****
 🌱 I’m learning **java, SQL, selenium, git, GitHub, JMeter, postman]**  
 💬 Ask me about **youtube,tech_notes,projects**  
 ⚡ Fun fact: **a learner**
