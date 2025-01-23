@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&width=435&lines=++++++++++++++++++Hi+There!+%F0%9F%91%8B;++++++++++++++i'm++Manu+K+Shibu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=++++++++++++++++++Hi+There!+%F0%9F%91%8B;++++++++++++++i'm++Manu+K+Shibu)](https://git.io/typing-svg)
 
 
 
