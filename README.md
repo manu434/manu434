@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/943eadff4cf00ae0557ceb9486b782cc864295c16a463e99e7b3ebbe3b56452d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b4d642b53616464616d213b" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Manu K Shibu!;" style="max-width: 100%;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;+i'm++Manu+K+Shibu)](https://git.io/typing-svg)
 
 
 
