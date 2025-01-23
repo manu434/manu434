@@ -1,4 +1,7 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&width=435&lines=++++++++++++++++++Hi+There!+%F0%9F%91%8B;++++++++++++++i'm++Manu+K+Shibu)](https://git.io/typing-svg)
+
 
 
 <h3 align="center">🌟 Passionate about transforming data into Automated stuff and driving informed decisions. I love to analyze, visualize, and uncover patterns within data.</h3>
