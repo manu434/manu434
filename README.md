@@ -52,7 +52,3 @@ Cycle (SDLC) Software Testing Life Cycle (STLC))and Bug Life Cycle
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manu434&show_icons=true&locale=en" alt="manu434" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manu434&" alt="manu434" /></p>
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manu123&show_icons=true&theme=radical)
