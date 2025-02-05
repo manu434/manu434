@@ -18,8 +18,8 @@
 
 - 📫 How to reach me **mksmanu45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o0MHihPcvHq7NgGX5V7s04Ry4hHVx4a-/view?usp=sharing](https://drive.google.com/file/d/1o0MHihPcvHq7NgGX5V7s04Ry4hHVx4a-/view?usp=sharing)
-
+- 📄 Know about my experiences: Check my Linkedin Profile to Know
+  
 - ⚡ Fun fact **a learner**
 ## I have a Professional experience as a Senior_QA_engineer with over 3 years
 ## Key Skills have been Achieved
