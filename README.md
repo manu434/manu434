@@ -57,4 +57,8 @@ Cycle (SDLC) Software Testing Life Cycle (STLC))and Bug Life Cycle
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manu434&show_icons=true&locale=en" alt="manu434" /></p>
 
+### 🏆 CodeChef Achievements  
+- **3-Star Coder** on [CodeChef]([https://www.codechef.com/users/gold_hope_29])
+- Participated in **Java Online Test & Quiz 2025** – Global Rank: 125  
+
 <a href="https://ibb.co/5g7fdhn1"><img src="https://i.ibb.co/hJqtkFZg/Skill-test-Code-Chef.png" alt="Skill-test-Code-Chef" border="0"></a>
