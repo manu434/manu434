@@ -47,7 +47,6 @@ Cycle (SDLC) Software Testing Life Cycle (STLC))and Bug Life Cycle
 <p align="left">
 <a href="https://linkedin.com/in/manukshibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manukshibu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnd7gw5bjtucnp2zdfvjq-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnd7gw5bjtucnp2zdfvjq-w" height="30" width="40" /></a>
-</p>
 <a href="https://www.codechef.com/users/gold_hope_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gold_hope_29" height="30" width="40" /></a>
 </p>
 
