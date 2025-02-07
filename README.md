@@ -63,4 +63,4 @@ Cycle (SDLC) Software Testing Life Cycle (STLC))and Bug Life Cycle
    <a href="https://ibb.co/svCdk7L5"><img src="https://i.ibb.co/ynpcG2Lh/Skill-test-Code-Chef.png" alt="Skill-test-Code-Chef" border="0"></a>
  
 - Participated in **Computer Networking Skill test** – Global Rank: 4  
-  <img src="https://i.ibb.co/wZ26K5B/gold-hope-29.png" alt="Gold Hope 29" width="400">
+<a href="https://ibb.co/qL21RT7N"><img src="https://i.ibb.co/wZ26K5BS/gold-hope-29.png" alt="gold-hope-29" border="0"></a>
